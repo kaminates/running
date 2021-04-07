@@ -8,6 +8,7 @@ date       | location         | notes
 2021-04-01 | santa monica     | 2 mi, 11:00 am - 12:00 pm
 2021-04-02 | santa monica     | 2 mi, 2:00 pm - 3:00 pm
 2021-04-03 | santa monica     | 2 mi, 3:00 pm - 4:00 pm
+2021-04-07 | santa monica     | ~1 mi dont run in shoes in the water or youre gonna lose skin
            |                  |
            |                  |
            |                  |
