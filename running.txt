@@ -12,6 +12,7 @@ date       | location         | notes
 2021-04-18 | santa monica     | 2 mi
 2021-04-19 | santa monica     | 2 mi, no rest
 2021-04-20 | santa monica     | 2 mi, no rest, im tired i want to quit i wanna quit legs hurt lungs empty
+2021-04-21 | santa monica     | 2 mi, no rest, im tired i want to quit i wanna quit lungs empty
            |                  |
            |                  |
            |                  |
