@@ -17,6 +17,7 @@ date       | location         | notes
 2021-04-28 | santa monica     | 2 mi, no rest, @neighborhood
 2021-05-17 | santa monica     | 5 mi, <-- yes really. lots of rest @beach
 2021-05-19 | santa monica     | 5 mi, again. mostly walking @beach
+2021-06-18 | santa monica     | 5 mi, lots of res
            |                  |
            |                  |
            |                  |
